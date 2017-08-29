@@ -10,5 +10,10 @@ func main(){
 	fmt.Println("Hello" + " World")
 	fmt.Println("1 / 2 = ", 1.0 / 2.0)
 	fmt.Println("Hello World")
+	fmt.Println(true && true)
+	fmt.Println(true && false)
+	fmt.Println(true || true)
+	fmt.Println(true || false)
+	fmt.Println(!true)
 }
 
